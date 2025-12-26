@@ -1,0 +1,6 @@
+gradio
+pandas
+faiss-cpu
+sentence-transformers
+groq
+gdown
